@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fotoyvideo-contralux.com.mx/fotografia-y-video-para-tu-evento/sitemap.xml
+
